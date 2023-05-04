@@ -11,7 +11,7 @@ const pessoa2 = new Pessoa(
     "Leonardo","leo@gmail.com","25",["golf","jogar dominó"]
 )
 const pessoa3 = new Pessoa(
-    "Lucas","lucas@gmail.com","25",["pilates","jogar bocha"]
+    "Lucas","lucas@gmail.com","26",["pilates","jogar bocha"]
 )
 
 app.get('/pessoa',(requisicao,resposta)=>{
